@@ -1,0 +1,55 @@
+
+body {
+    background-color: rgb(104, 104, 68);
+}
+
+
+
+#primeiros {
+    text-align: center;
+    font-size: 120%;
+    font-family:Arial, Helvetica, sans-serif ;
+   
+}
+
+#ponto-linha {
+    list-style: none;
+}
+
+#lei {
+    font-size: 120%;
+    margin: 20px;
+}
+hr{
+    font-size:xx-large;
+    line-height: 140% ;
+    
+
+}
+#sempre{
+    color: yellow;
+}
+img{
+    font-size:small;
+    width: 20%;
+}
+header{
+    display:inline;
+    position:absolute;
+    margin: 30px;
+}
+    .type {
+        text-align:center;
+        position: relative;
+        left: -30px;
+        
+    }
+.listas {
+    text-align: center;
+    display: inline-block;
+}
+ul {
+    
+    padding: -10px;
+    margin-bottom: 30px;
+}
